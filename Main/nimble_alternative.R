@@ -1,4 +1,4 @@
-#This sript is the code for the problem written in NIMBLE.
+#This script is the code for the problem written in NIMBLE.
 
 # Writting the nimble code for estimation of parameters.
 
