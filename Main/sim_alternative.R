@@ -1,3 +1,7 @@
+#This function simulates the data for the problem at hand. 
+#It returns a list of the unverified data, verified data, 
+#classification probabilities and the covariates.
+
 # Set-up for PACKAGES
 if (!require(nimble)) install.packages('nimble')
 if (!require(MCMCglmm)) install.packages('MCMCglmm')
