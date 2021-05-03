@@ -1,4 +1,7 @@
-source('~/Documents/GitHub/Thesis/Misclassification/Misclassification/Main/sim_alternative.R')
+#This contains the unit test for the simulations of the data (sim_alternative.R). 
+#Note that the scripts in the MAIN also contain self checks for the simulation.
+
+source('~/Main/sim_alternative.R')
 
 library(testthat)
 
