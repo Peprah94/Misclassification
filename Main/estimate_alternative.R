@@ -1,3 +1,6 @@
+#This script is for the estimation of parameters. 
+#This is the initial work, so only one set of parameter values are used.
+
 #Estimation of parameters
 source("sim_alternative.R")
 source("nimble_alternative.R")
